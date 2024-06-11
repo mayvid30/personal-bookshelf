@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-bookshelf/static/css/main.0848690a.css",
+    "main.js": "/personal-bookshelf/static/js/main.6a50e4bc.js",
+    "index.html": "/personal-bookshelf/index.html",
+    "main.0848690a.css.map": "/personal-bookshelf/static/css/main.0848690a.css.map",
+    "main.6a50e4bc.js.map": "/personal-bookshelf/static/js/main.6a50e4bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0848690a.css",
+    "static/js/main.6a50e4bc.js"
+  ]
+}
